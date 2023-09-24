@@ -4258,3 +4258,722 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.24-17.11.38:909][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.89 sec)
 [2023.09.24-17.11.38:910][577]AssetCheck: New page: Asset Save: MI_Triangle_Line
 [2023.09.24-17.11.38:910][577]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Art/Materials/ColorsWithTexture/MI_Triangle_Line.MI_Triangle_Line
+[2023.09.24-17.17.07:228][609]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.24-17.17.07:244][609]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.24-17.17.07:254][610]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.24-17.17.11:216][991]LogContentBrowser: Attempting asset rename: NewFolder -> SubLevels
+[2023.09.24-17.17.11:218][991]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.24-17.17.17:056][431]LogSlate: Window 'MI_Triangle_Line' being destroyed
+[2023.09.24-17.17.17:061][431]LogSlate: Window 'MI_Triangle_Line' being destroyed
+[2023.09.24-17.17.17:073][431]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-17.17.17:073][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-17.17.17:098][431]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-17.17.17:098][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-17.17.17:120][431]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-17.17.17:120][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-17.17.25:827][821]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.09.24-17.17.25:834][821]LogContentBrowser: Creating deferred item: NewWorld
+[2023.09.24-17.17.25:884][823]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.09.24-17.17.34:491][907]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.09.24-17.17.34:491][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-17.17.34:491][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-17.17.34:522][907]LogContentBrowser: End creating deferred item NewWorld
+[2023.09.24-17.17.39:296][388]LogContentBrowser: Attempting asset rename: NewWorld -> L_Square
+[2023.09.24-17.17.39:321][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-17.17.39:368][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.24-17.17.39:380][388]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-17.17.39:380][388]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareD09F51904C14312E88891EADA66BFDA3.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-17.17.39:385][388]LogFileHelpers: Saving map 'L_Square' took 0.038
+[2023.09.24-17.17.39:392][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.96 sec)
+[2023.09.24-17.17.39:412][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.24-17.17.39:426][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.24-17.17.39:436][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-17.17.39:440][388]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-17.17.39:440][388]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-17.17.42:069][677]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.09.24-17.17.42:076][677]LogContentBrowser: Creating deferred item: NewWorld
+[2023.09.24-17.17.42:084][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.09.24-17.17.46:803][178]LogContentBrowser: Attempting asset rename: NewWorld -> L_Triangle
+[2023.09.24-17.17.46:804][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-17.17.46:804][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-17.17.46:813][178]LogContentBrowser: End creating deferred item NewWorld
+[2023.09.24-17.17.48:170][322]LogContentBrowser: Deferred new asset file creation: L_Triangle1
+[2023.09.24-17.17.48:176][322]LogContentBrowser: Creating deferred item: L_Triangle1
+[2023.09.24-17.17.48:188][323]LogContentBrowser: Renaming the item being created (Deferred Item: L_Triangle1).
+[2023.09.24-17.17.54:275][972]LogContentBrowser: Attempting asset rename: L_Triangle1 -> L_Hexagon
+[2023.09.24-17.17.54:293][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-17.17.54:302][972]LogContentBrowser: End creating deferred item L_Triangle1
+[2023.09.24-17.18.08:726][181]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.09.24-17.18.08:790][181]LogContentBrowser: Creating deferred item: NewWorld
+[2023.09.24-17.18.08:800][182]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.09.24-17.18.15:678][918]LogContentBrowser: Attempting asset rename: NewWorld -> L_Lightning
+[2023.09.24-17.18.15:678][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-17.18.15:679][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-17.18.15:687][918]LogContentBrowser: End creating deferred item NewWorld
+[2023.09.24-17.18.19:947][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.24-17.18.21:285][ 35]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-17.18.21:292][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-17.18.21:319][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-17.18.21:332][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-17.18.21:336][ 35]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-17.18.21:336][ 35]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_HexagonFFBC07144C5919107076E7972787AC2A.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-17.18.21:342][ 35]LogFileHelpers: Saving map 'L_Hexagon' took 0.024
+[2023.09.24-17.18.21:355][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.24-17.18.21:359][ 35]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Lightning
+[2023.09.24-17.18.21:359][ 35]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Lightning7804D67D4C2956244823EBA233E0F69D.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Lightning.umap'
+[2023.09.24-17.18.21:365][ 35]LogFileHelpers: Saving map 'L_Lightning' took 0.021
+[2023.09.24-17.18.21:376][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.24-17.18.21:380][ 35]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Triangle
+[2023.09.24-17.18.21:380][ 35]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Triangle14D18BBD4E6191FB5DDE4EB974CC7A2B.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Triangle.umap'
+[2023.09.24-17.18.21:386][ 35]LogFileHelpers: Saving map 'L_Triangle' took 0.021
+[2023.09.24-17.18.21:391][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 7.06 sec)
+[2023.09.24-17.18.21:392][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-17.18.21:392][ 35]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-17.18.21:392][ 35]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Lightning.L_Lightning
+[2023.09.24-17.18.21:392][ 35]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Triangle.L_Triangle
+[2023.09.24-17.19.18:548][230]LogSlate: Window 'Levels' being destroyed
+[2023.09.24-17.19.22:265][451]LogSlate: Window 'Levels' being destroyed
+[2023.09.24-17.19.22:273][451]LogViewport: Scene viewport resized to 760x499, mode Windowed.
+[2023.09.24-17.19.23:709][617]LogViewport: Scene viewport resized to 763x499, mode Windowed.
+[2023.09.24-17.19.23:719][618]LogViewport: Scene viewport resized to 766x499, mode Windowed.
+[2023.09.24-17.19.23:748][619]LogViewport: Scene viewport resized to 789x499, mode Windowed.
+[2023.09.24-17.19.23:766][620]LogViewport: Scene viewport resized to 814x499, mode Windowed.
+[2023.09.24-17.19.23:788][621]LogViewport: Scene viewport resized to 853x499, mode Windowed.
+[2023.09.24-17.19.23:806][622]LogViewport: Scene viewport resized to 900x499, mode Windowed.
+[2023.09.24-17.19.23:828][623]LogViewport: Scene viewport resized to 946x499, mode Windowed.
+[2023.09.24-17.19.23:846][624]LogViewport: Scene viewport resized to 985x499, mode Windowed.
+[2023.09.24-17.19.23:866][625]LogViewport: Scene viewport resized to 1017x499, mode Windowed.
+[2023.09.24-17.19.23:887][626]LogViewport: Scene viewport resized to 1038x499, mode Windowed.
+[2023.09.24-17.19.23:906][627]LogViewport: Scene viewport resized to 1055x499, mode Windowed.
+[2023.09.24-17.19.23:930][628]LogViewport: Scene viewport resized to 1076x499, mode Windowed.
+[2023.09.24-17.19.23:948][629]LogViewport: Scene viewport resized to 1094x499, mode Windowed.
+[2023.09.24-17.19.23:968][630]LogViewport: Scene viewport resized to 1112x499, mode Windowed.
+[2023.09.24-17.19.23:989][631]LogViewport: Scene viewport resized to 1130x499, mode Windowed.
+[2023.09.24-17.19.24:008][632]LogViewport: Scene viewport resized to 1151x499, mode Windowed.
+[2023.09.24-17.19.24:028][633]LogViewport: Scene viewport resized to 1167x499, mode Windowed.
+[2023.09.24-17.19.24:046][634]LogViewport: Scene viewport resized to 1178x499, mode Windowed.
+[2023.09.24-17.19.24:066][635]LogViewport: Scene viewport resized to 1187x499, mode Windowed.
+[2023.09.24-17.19.24:085][636]LogViewport: Scene viewport resized to 1189x499, mode Windowed.
+[2023.09.24-17.19.24:105][637]LogViewport: Scene viewport resized to 1190x499, mode Windowed.
+[2023.09.24-17.19.24:131][639]LogViewport: Scene viewport resized to 1191x499, mode Windowed.
+[2023.09.24-17.19.24:143][640]LogViewport: Scene viewport resized to 1192x499, mode Windowed.
+[2023.09.24-17.19.24:162][641]LogViewport: Scene viewport resized to 1196x499, mode Windowed.
+[2023.09.24-17.19.24:179][642]LogViewport: Scene viewport resized to 1201x499, mode Windowed.
+[2023.09.24-17.19.24:198][643]LogViewport: Scene viewport resized to 1214x499, mode Windowed.
+[2023.09.24-17.19.24:217][644]LogViewport: Scene viewport resized to 1228x499, mode Windowed.
+[2023.09.24-17.19.24:237][645]LogViewport: Scene viewport resized to 1240x499, mode Windowed.
+[2023.09.24-17.19.24:257][646]LogViewport: Scene viewport resized to 1249x499, mode Windowed.
+[2023.09.24-17.19.24:276][647]LogViewport: Scene viewport resized to 1251x499, mode Windowed.
+[2023.09.24-17.19.36:491][961]LogViewport: Scene viewport resized to 1084x499, mode Windowed.
+[2023.09.24-17.19.38:498][145]LogViewport: Scene viewport resized to 1286x499, mode Windowed.
+[2023.09.24-17.19.43:226][678]LogViewport: Scene viewport resized to 1285x499, mode Windowed.
+[2023.09.24-17.19.43:237][679]LogViewport: Scene viewport resized to 1282x499, mode Windowed.
+[2023.09.24-17.19.43:286][680]LogViewport: Scene viewport resized to 1257x499, mode Windowed.
+[2023.09.24-17.19.43:310][681]LogViewport: Scene viewport resized to 1227x499, mode Windowed.
+[2023.09.24-17.19.43:331][682]LogViewport: Scene viewport resized to 1204x499, mode Windowed.
+[2023.09.24-17.19.43:351][683]LogViewport: Scene viewport resized to 1185x499, mode Windowed.
+[2023.09.24-17.19.43:371][684]LogViewport: Scene viewport resized to 1181x499, mode Windowed.
+[2023.09.24-17.19.44:963][866]LogViewport: Scene viewport resized to 1181x501, mode Windowed.
+[2023.09.24-17.19.44:973][867]LogViewport: Scene viewport resized to 1181x505, mode Windowed.
+[2023.09.24-17.19.44:998][868]LogViewport: Scene viewport resized to 1181x510, mode Windowed.
+[2023.09.24-17.19.45:017][869]LogViewport: Scene viewport resized to 1181x514, mode Windowed.
+[2023.09.24-17.19.45:035][870]LogViewport: Scene viewport resized to 1181x521, mode Windowed.
+[2023.09.24-17.19.45:061][871]LogViewport: Scene viewport resized to 1181x531, mode Windowed.
+[2023.09.24-17.19.45:080][872]LogViewport: Scene viewport resized to 1181x538, mode Windowed.
+[2023.09.24-17.19.45:098][873]LogViewport: Scene viewport resized to 1181x545, mode Windowed.
+[2023.09.24-17.19.45:117][874]LogViewport: Scene viewport resized to 1181x553, mode Windowed.
+[2023.09.24-17.19.45:139][875]LogViewport: Scene viewport resized to 1181x559, mode Windowed.
+[2023.09.24-17.19.45:157][876]LogViewport: Scene viewport resized to 1181x563, mode Windowed.
+[2023.09.24-17.19.45:177][877]LogViewport: Scene viewport resized to 1181x568, mode Windowed.
+[2023.09.24-17.19.45:195][878]LogViewport: Scene viewport resized to 1181x571, mode Windowed.
+[2023.09.24-17.19.45:214][879]LogViewport: Scene viewport resized to 1181x572, mode Windowed.
+[2023.09.24-17.19.45:233][880]LogViewport: Scene viewport resized to 1181x574, mode Windowed.
+[2023.09.24-17.19.45:250][881]LogViewport: Scene viewport resized to 1181x575, mode Windowed.
+[2023.09.24-17.19.45:285][884]LogViewport: Scene viewport resized to 1181x576, mode Windowed.
+[2023.09.24-17.19.45:305][886]LogViewport: Scene viewport resized to 1181x578, mode Windowed.
+[2023.09.24-17.19.45:327][888]LogViewport: Scene viewport resized to 1181x579, mode Windowed.
+[2023.09.24-17.19.45:341][889]LogViewport: Scene viewport resized to 1181x581, mode Windowed.
+[2023.09.24-17.19.45:359][890]LogViewport: Scene viewport resized to 1181x582, mode Windowed.
+[2023.09.24-17.21.13:402][478]Cmd: DELETE
+[2023.09.24-17.21.13:416][478]Cmd: ACTOR DELETE
+[2023.09.24-17.21.13:501][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-17.21.13:515][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.24-17.21.13:524][478]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2023.09.24-17.21.21:438][413]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.24-17.21.30:544][436]Cmd: TRANSACTION UNDO
+[2023.09.24-17.21.30:544][436]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.24-17.21.31:343][486]Cmd: TRANSACTION UNDO
+[2023.09.24-17.21.31:343][486]LogEditorTransaction: Undo Delete Elements
+[2023.09.24-17.22.22:556][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.22:556][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.22:557][668]LogActorFactory: Actor Factory spawned StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor as actor: StaticMeshActor /Game/Maps/SubLevels/L_Triangle.L_Triangle:PersistentLevel.StaticMeshActor_0
+[2023.09.24-17.22.24:401][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.24:401][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.24:402][868]LogActorFactory: Actor Factory spawned StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor as actor: StaticMeshActor /Game/Maps/SubLevels/L_Triangle.L_Triangle:PersistentLevel.StaticMeshActor_1
+[2023.09.24-17.22.44:339][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.44:339][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.44:339][847]LogActorFactory: Actor Factory spawned StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor as actor: StaticMeshActor /Game/Maps/SubLevels/L_Triangle.L_Triangle:PersistentLevel.StaticMeshActor_2
+[2023.09.24-17.22.46:459][900]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.09.24-17.22.46:463][900]Message dialog closed, result: Cancel, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.09.24-17.22.53:933][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.53:933][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.53:933][655]LogActorFactory: Actor Factory spawned StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor as actor: StaticMeshActor /Game/Maps/SubLevels/L_Triangle.L_Triangle:PersistentLevel.StaticMeshActor_3
+[2023.09.24-17.22.57:950][704]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.09.24-17.22.57:955][704]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.09.24-17.22.57:955][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.57:955][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2023.09.24-17.22.57:956][704]LogActorFactory: Actor Factory spawned StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor as actor: StaticMeshActor /Game/Maps/SubLevels/L_Triangle.L_Triangle:PersistentLevel.StaticMeshActor_4
+[2023.09.24-17.24.54:664][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-17.24.54:705][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.24-17.24.54:717][669]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Triangle
+[2023.09.24-17.24.54:718][669]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_TriangleBD8624C04E1F78DB3DEB40A83966C945.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Triangle.umap'
+[2023.09.24-17.24.54:722][669]LogFileHelpers: Saving map 'L_Triangle' took 0.033
+[2023.09.24-17.24.54:727][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.12 sec)
+[2023.09.24-17.24.54:728][669]AssetCheck: New page: Asset Save: L_Triangle
+[2023.09.24-17.24.54:728][669]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Triangle.L_Triangle
+[2023.09.24-17.34.55:052][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.09.24-17.34.55:062][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Entry_Auto0
+[2023.09.24-17.34.55:062][874]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry_Auto0C45C8FA043216736E64E55A6CDFFA1DA.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/L_Entry_Auto0.umap'
+[2023.09.24-17.34.55:063][874]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/L_Entry_Auto0.umap is in the /Temp path, will not scan.
+[2023.09.24-17.34.55:063][874]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/L_Entry_Auto0 is in the /Temp path, will not scan.
+[2023.09.24-17.34.55:063][874]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/L_Entry_Auto0 is in the /Temp path, will not scan.
+[2023.09.24-17.34.55:064][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.028
+[2023.09.24-17.34.55:064][874]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.09.24-18.11.18:775][425]LogDerivedDataCache: C:/Users/alex_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 949 files in 1672 folders with total size 27 MiB.
+[2023.09.24-19.11.18:775][223]LogDerivedDataCache: C:/Users/alex_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 949 files in 1672 folders with total size 27 MiB.
+[2023.09.24-19.22.35:555][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.35:568][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.22.35:575][323]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.09.24-19.22.35:605][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.35:619][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.24-19.22.35:622][323]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.09.24-19.22.35:627][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.35:637][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.22.35:639][323]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.09.24-19.22.35:663][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.35:676][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.24-19.22.35:679][323]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.09.24-19.22.44:214][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.44:215][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.22.44:230][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.09.24-19.22.44:237][246]LogEditorActor: Deleted 2 Actors (0.023 secs)
+[2023.09.24-19.23.00:630][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.23.00:645][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.24-19.23.00:652][ 64]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.09.24-19.23.05:654][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.23.05:669][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.09.24-19.23.05:676][603]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.09.24-19.23.37:274][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.24-19.23.37:285][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/L_Entry_Auto1
+[2023.09.24-19.23.37:285][467]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry_Auto175DA78084DFB0C1FF77130B2E94AEADE.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/L_Entry_Auto1.umap'
+[2023.09.24-19.23.37:286][467]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/L_Entry_Auto1.umap is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:286][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/L_Entry_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:286][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/L_Entry_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:288][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SubLevels/L_Hexagon_Auto1
+[2023.09.24-19.23.37:288][467]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Hexagon_Auto1A3BC054E431B0AE63A87D591227CDA56.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Hexagon_Auto1.umap'
+[2023.09.24-19.23.37:289][467]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Hexagon_Auto1.umap is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:289][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SubLevels/L_Hexagon_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:289][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SubLevels/L_Hexagon_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:290][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SubLevels/L_Square_Auto1
+[2023.09.24-19.23.37:290][467]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Square_Auto19DE88AD34FF2381278330DBCBA14A849.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Square_Auto1.umap'
+[2023.09.24-19.23.37:292][467]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Square_Auto1.umap is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:292][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SubLevels/L_Square_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:292][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SubLevels/L_Square_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:294][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SubLevels/L_Triangle_Auto1
+[2023.09.24-19.23.37:294][467]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Triangle_Auto1775A777B452B4540DEEF7D8A930F593B.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Triangle_Auto1.umap'
+[2023.09.24-19.23.37:294][467]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Triangle_Auto1.umap is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:294][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SubLevels/L_Triangle_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:294][467]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SubLevels/L_Triangle_Auto1 is in the /Temp path, will not scan.
+[2023.09.24-19.23.37:294][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.035
+[2023.09.24-19.23.37:294][467]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.09.24-19.24.05:933][732]LogSlate: Window 'Remove Level' being destroyed
+[2023.09.24-19.24.07:651][913]Cmd: DELETE
+[2023.09.24-19.24.07:651][913]Cmd: ACTOR DELETE
+[2023.09.24-19.24.07:653][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.24.07:667][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.24.07:672][913]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.09.24-19.24.50:034][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.24.50:077][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.24.50:082][788]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.24.50:082][788]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Square418721FB4827762561CB289C28E6CFB1.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.24.50:087][788]LogFileHelpers: Saving map 'L_Square' took 0.024
+[2023.09.24-19.24.50:092][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 7.18 sec)
+[2023.09.24-19.24.50:093][788]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-19.24.50:093][788]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.24.54:347][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.24.54:382][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.24.54:388][283]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.24.54:389][283]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Square29F4F11742A9D31491FA7BBC2DA381AF.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.24.54:394][283]LogFileHelpers: Saving map 'L_Square' took 0.024
+[2023.09.24-19.24.54:399][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 7.23 sec)
+[2023.09.24-19.24.54:399][283]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-19.24.54:399][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.24.56:073][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.24.56:114][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.24.56:118][470]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.24.56:119][470]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareA938CD164C1E2E2C785E398B199C5AA1.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.24.56:122][470]LogFileHelpers: Saving map 'L_Square' took 0.024
+[2023.09.24-19.24.56:128][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 7.29 sec)
+[2023.09.24-19.24.56:129][470]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-19.24.56:129][470]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.24.58:413][732]LogEditorViewport: Clicking Background
+[2023.09.24-19.25.56:081][909]Cmd: DELETE
+[2023.09.24-19.25.56:081][909]Cmd: ACTOR DELETE
+[2023.09.24-19.25.56:083][909]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.09.24-19.25.56:095][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.25.56:103][909]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.09.24-19.25.58:107][148]Cmd: TRANSACTION UNDO
+[2023.09.24-19.25.58:107][148]LogEditorTransaction: Undo Delete Elements
+[2023.09.24-19.26.24:652][394]Cmd: DELETE
+[2023.09.24-19.26.24:652][394]Cmd: ACTOR DELETE
+[2023.09.24-19.26.24:653][394]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.09.24-19.26.24:666][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.09.24-19.26.24:673][394]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.09.24-19.26.26:207][577]Cmd: TRANSACTION UNDO
+[2023.09.24-19.26.26:207][577]LogEditorTransaction: Undo Delete Elements
+[2023.09.24-19.26.30:191][993]Cmd: DELETE
+[2023.09.24-19.26.30:191][993]Cmd: ACTOR DELETE
+[2023.09.24-19.26.30:192][993]LogEditorActor: Deleted Actor: VolumetricCloud
+[2023.09.24-19.26.30:207][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.09.24-19.26.30:212][993]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.09.24-19.27.07:596][688]LogViewport: Scene viewport resized to 1177x582, mode Windowed.
+[2023.09.24-19.27.07:608][689]LogViewport: Scene viewport resized to 1174x582, mode Windowed.
+[2023.09.24-19.27.07:646][690]LogViewport: Scene viewport resized to 1151x582, mode Windowed.
+[2023.09.24-19.27.07:660][691]LogViewport: Scene viewport resized to 1140x582, mode Windowed.
+[2023.09.24-19.27.07:677][692]LogViewport: Scene viewport resized to 1128x582, mode Windowed.
+[2023.09.24-19.27.07:690][693]LogViewport: Scene viewport resized to 1121x582, mode Windowed.
+[2023.09.24-19.27.07:705][694]LogViewport: Scene viewport resized to 1115x582, mode Windowed.
+[2023.09.24-19.27.07:721][695]LogViewport: Scene viewport resized to 1111x582, mode Windowed.
+[2023.09.24-19.27.07:736][696]LogViewport: Scene viewport resized to 1108x582, mode Windowed.
+[2023.09.24-19.27.07:799][703]LogViewport: Scene viewport resized to 1106x582, mode Windowed.
+[2023.09.24-19.27.07:829][706]LogViewport: Scene viewport resized to 1105x582, mode Windowed.
+[2023.09.24-19.27.07:839][707]LogViewport: Scene viewport resized to 1104x582, mode Windowed.
+[2023.09.24-19.27.07:865][708]LogViewport: Scene viewport resized to 1101x582, mode Windowed.
+[2023.09.24-19.27.07:879][709]LogViewport: Scene viewport resized to 1100x582, mode Windowed.
+[2023.09.24-19.27.07:892][710]LogViewport: Scene viewport resized to 1099x582, mode Windowed.
+[2023.09.24-19.27.07:906][711]LogViewport: Scene viewport resized to 1098x582, mode Windowed.
+[2023.09.24-19.27.07:922][712]LogViewport: Scene viewport resized to 1097x582, mode Windowed.
+[2023.09.24-19.27.07:943][714]LogViewport: Scene viewport resized to 1096x582, mode Windowed.
+[2023.09.24-19.27.07:955][715]LogViewport: Scene viewport resized to 1094x582, mode Windowed.
+[2023.09.24-19.27.07:969][716]LogViewport: Scene viewport resized to 1089x582, mode Windowed.
+[2023.09.24-19.27.07:984][717]LogViewport: Scene viewport resized to 1086x582, mode Windowed.
+[2023.09.24-19.27.07:997][718]LogViewport: Scene viewport resized to 1084x582, mode Windowed.
+[2023.09.24-19.27.08:011][719]LogViewport: Scene viewport resized to 1081x582, mode Windowed.
+[2023.09.24-19.27.08:024][720]LogViewport: Scene viewport resized to 1078x582, mode Windowed.
+[2023.09.24-19.27.08:039][721]LogViewport: Scene viewport resized to 1076x582, mode Windowed.
+[2023.09.24-19.27.08:052][722]LogViewport: Scene viewport resized to 1074x582, mode Windowed.
+[2023.09.24-19.27.08:066][723]LogViewport: Scene viewport resized to 1073x582, mode Windowed.
+[2023.09.24-19.27.08:469][771]LogViewport: Scene viewport resized to 1077x582, mode Windowed.
+[2023.09.24-19.27.08:481][772]LogViewport: Scene viewport resized to 1079x582, mode Windowed.
+[2023.09.24-19.27.08:526][773]LogViewport: Scene viewport resized to 1087x582, mode Windowed.
+[2023.09.24-19.27.08:540][774]LogViewport: Scene viewport resized to 1089x582, mode Windowed.
+[2023.09.24-19.27.08:554][775]LogViewport: Scene viewport resized to 1090x582, mode Windowed.
+[2023.09.24-19.27.08:584][778]LogViewport: Scene viewport resized to 1091x582, mode Windowed.
+[2023.09.24-19.27.08:636][784]LogViewport: Scene viewport resized to 1092x582, mode Windowed.
+[2023.09.24-19.27.08:646][785]LogViewport: Scene viewport resized to 1094x582, mode Windowed.
+[2023.09.24-19.27.08:670][786]LogViewport: Scene viewport resized to 1098x582, mode Windowed.
+[2023.09.24-19.27.08:683][787]LogViewport: Scene viewport resized to 1101x582, mode Windowed.
+[2023.09.24-19.27.08:697][788]LogViewport: Scene viewport resized to 1103x582, mode Windowed.
+[2023.09.24-19.27.08:710][789]LogViewport: Scene viewport resized to 1107x582, mode Windowed.
+[2023.09.24-19.27.08:725][790]LogViewport: Scene viewport resized to 1109x582, mode Windowed.
+[2023.09.24-19.27.08:739][791]LogViewport: Scene viewport resized to 1111x582, mode Windowed.
+[2023.09.24-19.27.09:157][841]LogViewport: Scene viewport resized to 1112x582, mode Windowed.
+[2023.09.24-19.27.09:210][845]LogViewport: Scene viewport resized to 1111x582, mode Windowed.
+[2023.09.24-19.27.09:222][846]LogViewport: Scene viewport resized to 1107x582, mode Windowed.
+[2023.09.24-19.27.09:247][847]LogViewport: Scene viewport resized to 1099x582, mode Windowed.
+[2023.09.24-19.27.09:260][848]LogViewport: Scene viewport resized to 1096x582, mode Windowed.
+[2023.09.24-19.27.09:275][849]LogViewport: Scene viewport resized to 1093x582, mode Windowed.
+[2023.09.24-19.27.09:287][850]LogViewport: Scene viewport resized to 1091x582, mode Windowed.
+[2023.09.24-19.27.09:324][854]LogViewport: Scene viewport resized to 1089x582, mode Windowed.
+[2023.09.24-19.27.09:542][880]LogViewport: Scene viewport resized to 1088x582, mode Windowed.
+[2023.09.24-19.27.09:583][883]LogViewport: Scene viewport resized to 1087x582, mode Windowed.
+[2023.09.24-19.27.09:611][886]LogViewport: Scene viewport resized to 1085x582, mode Windowed.
+[2023.09.24-19.27.09:662][892]LogViewport: Scene viewport resized to 1084x582, mode Windowed.
+[2023.09.24-19.27.09:683][894]LogViewport: Scene viewport resized to 1082x582, mode Windowed.
+[2023.09.24-19.27.09:700][895]LogViewport: Scene viewport resized to 1080x582, mode Windowed.
+[2023.09.24-19.27.09:714][896]LogViewport: Scene viewport resized to 1079x582, mode Windowed.
+[2023.09.24-19.27.09:727][897]LogViewport: Scene viewport resized to 1077x582, mode Windowed.
+[2023.09.24-19.27.09:742][898]LogViewport: Scene viewport resized to 1075x582, mode Windowed.
+[2023.09.24-19.27.09:756][899]LogViewport: Scene viewport resized to 1073x582, mode Windowed.
+[2023.09.24-19.27.09:771][900]LogViewport: Scene viewport resized to 1071x582, mode Windowed.
+[2023.09.24-19.27.09:785][901]LogViewport: Scene viewport resized to 1070x582, mode Windowed.
+[2023.09.24-19.27.09:799][902]LogViewport: Scene viewport resized to 1068x582, mode Windowed.
+[2023.09.24-19.27.09:815][903]LogViewport: Scene viewport resized to 1066x582, mode Windowed.
+[2023.09.24-19.27.09:831][904]LogViewport: Scene viewport resized to 1063x582, mode Windowed.
+[2023.09.24-19.27.09:843][905]LogViewport: Scene viewport resized to 1061x582, mode Windowed.
+[2023.09.24-19.27.09:857][906]LogViewport: Scene viewport resized to 1060x582, mode Windowed.
+[2023.09.24-19.27.09:870][907]LogViewport: Scene viewport resized to 1059x582, mode Windowed.
+[2023.09.24-19.27.10:031][926]LogViewport: Scene viewport resized to 1058x582, mode Windowed.
+[2023.09.24-19.27.10:064][928]LogViewport: Scene viewport resized to 1055x582, mode Windowed.
+[2023.09.24-19.27.10:081][929]LogViewport: Scene viewport resized to 1054x582, mode Windowed.
+[2023.09.24-19.27.10:096][930]LogViewport: Scene viewport resized to 1049x582, mode Windowed.
+[2023.09.24-19.27.10:110][931]LogViewport: Scene viewport resized to 1046x582, mode Windowed.
+[2023.09.24-19.27.10:124][932]LogViewport: Scene viewport resized to 1043x582, mode Windowed.
+[2023.09.24-19.27.10:136][933]LogViewport: Scene viewport resized to 1041x582, mode Windowed.
+[2023.09.24-19.27.10:150][934]LogViewport: Scene viewport resized to 1039x582, mode Windowed.
+[2023.09.24-19.27.10:163][935]LogViewport: Scene viewport resized to 1038x582, mode Windowed.
+[2023.09.24-19.27.10:176][936]LogViewport: Scene viewport resized to 1036x582, mode Windowed.
+[2023.09.24-19.27.10:190][937]LogViewport: Scene viewport resized to 1035x582, mode Windowed.
+[2023.09.24-19.27.10:203][938]LogViewport: Scene viewport resized to 1034x582, mode Windowed.
+[2023.09.24-19.27.10:231][941]LogViewport: Scene viewport resized to 1032x582, mode Windowed.
+[2023.09.24-19.27.10:260][944]LogViewport: Scene viewport resized to 1030x582, mode Windowed.
+[2023.09.24-19.27.10:280][946]LogViewport: Scene viewport resized to 1029x582, mode Windowed.
+[2023.09.24-19.27.11:076][ 41]LogViewport: Scene viewport resized to 1030x582, mode Windowed.
+[2023.09.24-19.27.11:118][ 43]LogViewport: Scene viewport resized to 1032x582, mode Windowed.
+[2023.09.24-19.27.11:132][ 44]LogViewport: Scene viewport resized to 1033x582, mode Windowed.
+[2023.09.24-19.27.11:146][ 45]LogViewport: Scene viewport resized to 1036x582, mode Windowed.
+[2023.09.24-19.27.11:159][ 46]LogViewport: Scene viewport resized to 1037x582, mode Windowed.
+[2023.09.24-19.27.11:174][ 47]LogViewport: Scene viewport resized to 1041x582, mode Windowed.
+[2023.09.24-19.27.11:187][ 48]LogViewport: Scene viewport resized to 1044x582, mode Windowed.
+[2023.09.24-19.27.11:201][ 49]LogViewport: Scene viewport resized to 1047x582, mode Windowed.
+[2023.09.24-19.27.11:214][ 50]LogViewport: Scene viewport resized to 1051x582, mode Windowed.
+[2023.09.24-19.27.11:227][ 51]LogViewport: Scene viewport resized to 1056x582, mode Windowed.
+[2023.09.24-19.27.11:242][ 52]LogViewport: Scene viewport resized to 1060x582, mode Windowed.
+[2023.09.24-19.27.11:256][ 53]LogViewport: Scene viewport resized to 1064x582, mode Windowed.
+[2023.09.24-19.27.11:274][ 54]LogViewport: Scene viewport resized to 1070x582, mode Windowed.
+[2023.09.24-19.27.11:287][ 55]LogViewport: Scene viewport resized to 1076x582, mode Windowed.
+[2023.09.24-19.27.11:303][ 56]LogViewport: Scene viewport resized to 1082x582, mode Windowed.
+[2023.09.24-19.27.11:320][ 57]LogViewport: Scene viewport resized to 1087x582, mode Windowed.
+[2023.09.24-19.27.11:337][ 58]LogViewport: Scene viewport resized to 1092x582, mode Windowed.
+[2023.09.24-19.27.11:353][ 59]LogViewport: Scene viewport resized to 1096x582, mode Windowed.
+[2023.09.24-19.27.11:367][ 60]LogViewport: Scene viewport resized to 1099x582, mode Windowed.
+[2023.09.24-19.27.11:380][ 61]LogViewport: Scene viewport resized to 1103x582, mode Windowed.
+[2023.09.24-19.27.11:394][ 62]LogViewport: Scene viewport resized to 1107x582, mode Windowed.
+[2023.09.24-19.27.11:408][ 63]LogViewport: Scene viewport resized to 1111x582, mode Windowed.
+[2023.09.24-19.27.11:422][ 64]LogViewport: Scene viewport resized to 1117x582, mode Windowed.
+[2023.09.24-19.27.11:437][ 65]LogViewport: Scene viewport resized to 1122x582, mode Windowed.
+[2023.09.24-19.27.11:451][ 66]LogViewport: Scene viewport resized to 1127x582, mode Windowed.
+[2023.09.24-19.27.11:466][ 67]LogViewport: Scene viewport resized to 1130x582, mode Windowed.
+[2023.09.24-19.27.11:479][ 68]LogViewport: Scene viewport resized to 1133x582, mode Windowed.
+[2023.09.24-19.27.11:493][ 69]LogViewport: Scene viewport resized to 1134x582, mode Windowed.
+[2023.09.24-19.27.11:522][ 72]LogViewport: Scene viewport resized to 1135x582, mode Windowed.
+[2023.09.24-19.27.29:230][679]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.09.24-19.27.29:231][679]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.09.24-19.27.29:232][679]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.09.24-19.27.29:232][679]LogEditorActor: Deleted Actor: SkyLight
+[2023.09.24-19.27.29:246][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.27.29:253][679]LogEditorActor: Deleted 4 Actors (0.024 secs)
+[2023.09.24-19.27.43:265][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.09.24-19.27.44:732][185]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.27.44:738][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.27.44:766][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.24-19.27.44:792][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.27.44:799][185]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2023.09.24-19.27.44:800][185]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry078A156C40AD16223A7DA08BCD856E9E.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap'
+[2023.09.24-19.27.44:807][185]LogFileHelpers: Saving map 'L_Entry' took 0.041
+[2023.09.24-19.27.44:820][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.27.44:824][185]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.27.44:824][185]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_HexagonA4A74A5649AE9E9BB003339438F65185.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.27.44:829][185]LogFileHelpers: Saving map 'L_Hexagon' took 0.022
+[2023.09.24-19.27.44:843][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.24-19.27.44:848][185]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Lightning
+[2023.09.24-19.27.44:848][185]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Lightning87B2C2E0460D849F5A10AB9A512B27C1.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Lightning.umap'
+[2023.09.24-19.27.44:854][185]LogFileHelpers: Saving map 'L_Lightning' took 0.024
+[2023.09.24-19.27.44:866][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.27.44:870][185]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Triangle
+[2023.09.24-19.27.44:871][185]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Triangle10DB125342D833D7E6EC8BA839358022.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Triangle.umap'
+[2023.09.24-19.27.44:876][185]LogFileHelpers: Saving map 'L_Triangle' took 0.023
+[2023.09.24-19.27.44:881][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 7.43 sec)
+[2023.09.24-19.27.44:883][185]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-19.27.44:883][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2023.09.24-19.27.44:883][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.27.44:883][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Lightning.L_Lightning
+[2023.09.24-19.27.44:883][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Triangle.L_Triangle
+[2023.09.24-19.27.46:383][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.27.46:426][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.27.46:430][361]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Lightning
+[2023.09.24-19.27.46:431][361]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Lightning542DE25E49B3B1D8711A4FBE0E0D091D.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Lightning.umap'
+[2023.09.24-19.27.46:436][361]LogFileHelpers: Saving map 'L_Lightning' took 0.024
+[2023.09.24-19.27.46:441][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 7.49 sec)
+[2023.09.24-19.27.46:442][361]AssetCheck: New page: Asset Save: L_Lightning
+[2023.09.24-19.27.46:442][361]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Lightning.L_Lightning
+[2023.09.24-19.29.44:145][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.24-19.29.44:152][296]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Lightning
+[2023.09.24-19.29.44:153][296]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_LightningE4908E1148028E74BEDB719CCF9319F3.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Lightning.umap'
+[2023.09.24-19.29.44:206][296]AssetCheck: New page: Asset Save: L_Lightning
+[2023.09.24-19.29.44:206][296]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Lightning.L_Lightning
+[2023.09.24-19.29.56:051][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.29.56:056][971]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.29.56:056][971]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareD22EAB514DD3E4FE7F41A8B694BA4CA8.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.29.56:117][971]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-19.29.56:118][971]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.30.05:085][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.24-19.30.05:091][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.24-19.30.05:091][191]PIE: New page: PIE session: L_Entry (24-09-2023 13:30:05)
+[2023.09.24-19.30.05:091][191]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L_Entry
+[2023.09.24-19.30.05:093][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001298s)
+[2023.09.24-19.30.05:093][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L_Entry.L_Entry to /Game/Maps/UEDPIE_0_L_Entry.L_Entry (0.001328s)
+[2023.09.24-19.30.05:107][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.24-19.30.05:109][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-19.30.05:110][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-19.30.05:110][191]LogAIModule: Creating AISystem for world L_Entry
+[2023.09.24-19.30.05:110][191]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2023.09.24-19.30.05:110][191]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.24-19.30.05:110][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.24-19.30.05:110][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.24-19.30.05:111][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.24-19.30.05:111][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.24-19.30.05:111][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.24-19.30.05:112][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.24-19.30.05:136][191]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2023.09.24-19.30.05:136][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.24-19.30.05:136][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.24-19.30.05:136][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.24-19.30.05:138][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.09.24-19.30.05:138][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.09.24-19.30.05:140][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.09.24-19.30.05:140][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.09.24-19.30.05:140][191]LogInit: FAudioDevice initialized with ID 16.
+[2023.09.24-19.30.05:140][191]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_Entry'.
+[2023.09.24-19.30.05:140][191]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.24-19.30.05:146][191]LogLoad: Game class is 'BP_GM_C'
+[2023.09.24-19.30.05:168][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.09.24-16.30.05
+[2023.09.24-19.30.05:168][191]LogWorld: Bringing up level for play took: 0.000254
+[2023.09.24-19.30.05:170][191]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.09.24-19.30.05:175][191]PIE: Server logged in
+[2023.09.24-19.30.05:176][191]PIE: Play in editor total start time 0,086 seconds.
+[2023.09.24-19.30.21:675][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-19.30.21:675][148]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L_Entry
+[2023.09.24-19.30.21:675][148]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.09.24-19.30.21:675][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-19.30.21:678][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.24-19.30.21:682][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.24-19.30.21:697][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.24-19.30.21:697][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.09.24-19.30.21:698][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.24-19.30.21:699][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.09.24-19.30.21:704][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.24-19.30.21:747][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.09.24-19.30.21:758][150]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.09.24-19.30.50:927][401]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.24-19.30.50:936][401]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.24-19.30.50:943][402]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.24-19.30.56:396][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> Enviroment
+[2023.09.24-19.30.56:397][ 53]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.24-19.36.10:034][  0]Cmd: DELETE
+[2023.09.24-19.36.10:034][  0]Cmd: ACTOR DELETE
+[2023.09.24-19.36.10:036][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.36.10:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.24-19.36.10:058][  0]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.09.24-19.38.19:687][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\alex_\Desktop\Archivos de Blender\Proyectos Personales\Endless Game\Hex_Tiles\Hex_Tiles.fbx)
+[2023.09.24-19.38.19:691][590]LogFbx: Loading FBX Scene from C:\Users\alex_\Desktop\Archivos de Blender\Proyectos Personales\Endless Game\Hex_Tiles\Hex_Tiles.fbx
+[2023.09.24-19.38.19:695][590]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.24-19.39.08:658][590]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.24-19.39.08:765][590]LogFbx: Display: Triangulating static mesh Hex_Low.001
+[2023.09.24-19.39.08:818][590]LogStaticMesh: Display: Building static mesh Hex_Tiles...
+[2023.09.24-19.39.08:834][590]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.39.08:855][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.24-19.39.13:085][984]LogSlate: Window 'Message Log' being destroyed
+[2023.09.24-19.39.13:088][984]LogSlate: Window 'Message Log' being destroyed
+[2023.09.24-19.39.35:720][761]LogInterchangeEngine: [Pending] Importing
+[2023.09.24-19.39.35:720][761]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/alex_/Deskt...e/Hex_Tiles/Textures/Diffuse_Hex_Tiles.png]
+[2023.09.24-19.39.35:733][762]LogInterchangeEngine: [Pending] Importing
+[2023.09.24-19.39.35:786][762]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2023.09.24-19.39.36:078][763]LogTexture: Display: Building textures: /Game/Art/Textures/Grids/Diffuse_Hex_Tiles.Diffuse_Hex_Tiles (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.09.24-19.39.36:099][763]LogInterchangeEngine: [Success] Import Done
+[2023.09.24-19.39.36:109][763]LogInterchangeEngine: [Success] Import Done
+[2023.09.24-19.39.53:277][460]Cmd: DELETE
+[2023.09.24-19.39.53:277][460]Cmd: ACTOR DELETE
+[2023.09.24-19.39.53:279][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.39.53:294][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.24-19.39.53:303][460]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.09.24-19.40.09:379][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.09:379][ 41]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.09:379][ 41]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_2
+[2023.09.24-19.40.14:546][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.14:546][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.14:547][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_3
+[2023.09.24-19.40.14:913][641]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.14:913][641]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.40.14:914][641]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_4
+[2023.09.24-19.40.57:161][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.24-19.40.58:270][507]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.40.58:277][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.40.58:306][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.24-19.40.58:331][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.40.58:337][507]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2023.09.24-19.40.58:338][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry534B5C1C4C880D93502BCD8ABA0C7A8B.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap'
+[2023.09.24-19.40.58:343][507]LogFileHelpers: Saving map 'L_Entry' took 0.038
+[2023.09.24-19.40.58:356][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.40.58:360][507]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.40.58:361][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Hexagon9F1C9DBE4D75A73A021FF5A916A8C7D6.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.40.58:367][507]LogFileHelpers: Saving map 'L_Hexagon' took 0.024
+[2023.09.24-19.40.58:380][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.09.24-19.40.58:385][507]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Lightning
+[2023.09.24-19.40.58:386][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Lightning903AEEDF4AE3E62AD06C4E9A4DBA3E0B.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Lightning.umap'
+[2023.09.24-19.40.58:391][507]LogFileHelpers: Saving map 'L_Lightning' took 0.024
+[2023.09.24-19.40.58:404][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.40.58:408][507]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.40.58:409][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareA1C4505C4958FF3B3B48CA996FE3E3C9.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.40.58:414][507]LogFileHelpers: Saving map 'L_Square' took 0.023
+[2023.09.24-19.40.58:416][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Textures/Grids/Diffuse_Hex_Tiles" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Textures/Grids/Diffuse_Hex_Tiles.uasset" SILENT=true
+[2023.09.24-19.40.58:468][507]LogSavePackage: Moving output files for package: /Game/Art/Textures/Grids/Diffuse_Hex_Tiles
+[2023.09.24-19.40.58:468][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Diffuse_Hex_TilesB1572C774A74F52A5D7937BF04A9ED62.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Textures/Grids/Diffuse_Hex_Tiles.uasset'
+[2023.09.24-19.40.58:507][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Enviroment/Hex_Tiles" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Meshes/Enviroment/Hex_Tiles.uasset" SILENT=true
+[2023.09.24-19.40.58:513][507]LogSavePackage: Moving output files for package: /Game/Art/Meshes/Enviroment/Hex_Tiles
+[2023.09.24-19.40.58:513][507]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Hex_Tiles2244BE424C5EE1BC0B6A05A2C1667BD2.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Meshes/Enviroment/Hex_Tiles.uasset'
+[2023.09.24-19.40.58:519][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 7.73 sec)
+[2023.09.24-19.40.58:520][507]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Lightning.L_Lightning
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Art/Textures/Grids/Diffuse_Hex_Tiles.Diffuse_Hex_Tiles
+[2023.09.24-19.40.58:520][507]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.01:978][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.01:978][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.01:978][876]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_5
+[2023.09.24-19.41.03:173][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.03:173][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.03:173][  2]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_6
+[2023.09.24-19.41.10:095][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.24-19.41.12:308][746]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.41.12:314][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.41.12:345][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.41.12:350][746]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.41.12:350][746]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareECCB5EE04C1E39117F2D7889F9ED5181.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.41.12:355][746]LogFileHelpers: Saving map 'L_Square' took 0.022
+[2023.09.24-19.41.12:360][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 7.78 sec)
+[2023.09.24-19.41.12:361][746]AssetCheck: New page: Asset Save: L_Square
+[2023.09.24-19.41.12:361][746]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.41.15:017][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.15:018][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.15:018][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_7
+[2023.09.24-19.41.15:257][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.15:257][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles
+[2023.09.24-19.41.15:258][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/Art/Meshes/Enviroment/Hex_Tiles.Hex_Tiles as actor: StaticMeshActor /Game/Maps/SubLevels/L_Square.L_Square:PersistentLevel.StaticMeshActor_8
+[2023.09.24-19.41.26:088][264]Cmd: DELETE
+[2023.09.24-19.41.26:089][264]Cmd: ACTOR DELETE
+[2023.09.24-19.41.26:090][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.41.26:106][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.09.24-19.41.26:111][264]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.09.24-19.41.26:870][347]Cmd: DELETE
+[2023.09.24-19.41.26:870][347]Cmd: ACTOR DELETE
+[2023.09.24-19.41.26:871][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.41.26:885][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.41.26:890][347]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.09.24-19.41.39:709][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.24-19.41.39:721][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.41.39:727][828]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.09.24-19.42.14:919][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.42.14:959][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.24-19.42.14:967][566]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.42.14:967][566]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Hexagon2BA963054A14861DEF6CA1925C71803F.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.42.14:972][566]LogFileHelpers: Saving map 'L_Hexagon' took 0.027
+[2023.09.24-19.42.14:977][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 7.84 sec)
+[2023.09.24-19.42.14:977][566]AssetCheck: New page: Asset Save: L_Hexagon
+[2023.09.24-19.42.14:977][566]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.42.16:399][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.42.16:437][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.42.16:442][726]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.42.16:442][726]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Hexagon1F20648949DB1027779DB3983E25F93E.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.42.16:447][726]LogFileHelpers: Saving map 'L_Hexagon' took 0.024
+[2023.09.24-19.42.16:451][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 7.89 sec)
+[2023.09.24-19.42.16:453][726]AssetCheck: New page: Asset Save: L_Hexagon
+[2023.09.24-19.42.16:453][726]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.42.18:397][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.42.18:431][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.24-19.42.18:435][926]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.42.18:436][926]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_HexagonD9D4CD2C48A347FE4FDDDD8211FEB1F2.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.42.18:441][926]LogFileHelpers: Saving map 'L_Hexagon' took 0.024
+[2023.09.24-19.42.18:446][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 7.94 sec)
+[2023.09.24-19.42.18:447][926]AssetCheck: New page: Asset Save: L_Hexagon
+[2023.09.24-19.42.18:447][926]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.42.20:080][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.42.22:090][102]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.42.22:096][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.42.22:118][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.24-19.42.22:146][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.42.22:152][102]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2023.09.24-19.42.22:153][102]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry92BB1C394839B83E3727C3B968A7D028.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap'
+[2023.09.24-19.42.22:158][102]LogFileHelpers: Saving map 'L_Entry' took 0.040
+[2023.09.24-19.42.22:171][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.24-19.42.22:175][102]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.24-19.42.22:176][102]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareFF630986498E1286D46CD9AC350D2C0E.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.24-19.42.22:181][102]LogFileHelpers: Saving map 'L_Square' took 0.023
+[2023.09.24-19.42.22:186][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 8.03 sec)
+[2023.09.24-19.42.22:187][102]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-19.42.22:187][102]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2023.09.24-19.42.22:187][102]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.24-19.45.39:793][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.24-19.45.40:859][803]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.45.40:864][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.45.40:889][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/L_Entry" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.24-19.45.40:914][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.45.40:921][803]LogSavePackage: Moving output files for package: /Game/Maps/L_Entry
+[2023.09.24-19.45.40:921][803]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Entry3FBD1A4642CAB3B47F4167900FF19471.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/L_Entry.umap'
+[2023.09.24-19.45.40:926][803]LogFileHelpers: Saving map 'L_Entry' took 0.037
+[2023.09.24-19.45.40:940][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.45.40:945][803]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.45.40:946][803]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Hexagon3443C65E40D562A0062D9EA7C31DCB15.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.45.40:951][803]LogFileHelpers: Saving map 'L_Hexagon' took 0.024
+[2023.09.24-19.45.40:955][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 8.12 sec)
+[2023.09.24-19.45.40:957][803]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-19.45.40:957][803]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2023.09.24-19.45.40:957][803]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: ================================================
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Total job queries 652, among them cache hits 469 (71.93%)
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 86 distinct outputs (57.33%)
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: RAM used: 3,34 MiB of 819,20 MiB budget. Usage: 0.41%
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Shaders Compiled: 150
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Jobs assigned 158, completed 150 (94.94%)
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Average time worker was idle: 669.23 s
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 2.33 s
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 2.31 s
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 2.33
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Shader code size: average 38,442 KiB, min 29,059 KiB, max 61,719 KiB
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.73 s
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Jobs were issued in 158 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.24-19.45.56:845][968]LogShaderCompilers: Display: Average processing rate: 8.01 jobs/sec
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Total thread time: 32,388 s
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Total thread preprocess time: 4,902 s
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Percentage time preprocessing: 15.14%
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Effective parallelization: 1.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.29 sec, max 0.30 sec, min 0.27 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.49% of total time (compiled   25 times, average 0.23 sec, max 0.28 sec, min 0.16 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.56% of total time (compiled   25 times, average 0.21 sec, max 0.26 sec, min 0.19 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.04% of total time (compiled   18 times, average 0.22 sec, max 0.26 sec, min 0.19 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.10% of total time (compiled   19 times, average 0.12 sec, max 0.41 sec, min 0.08 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.54% of total time (compiled    5 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2023.09.24-19.45.56:846][968]LogShaderCompilers: Display: ================================================
+[2023.09.24-19.46.03:791][508]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Textures/Grids/Diffuse_Hex_Tiles_Mat.Diffuse_Hex_Tiles_Mat
+[2023.09.24-19.46.03:794][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.24-19.46.03:794][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.24-19.46.03:886][508]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.24-19.46.03:886][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.24-19.46.03:886][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.24-19.46.03:886][508]MaterialEditorStats: Shader Count: 0
+[2023.09.24-19.46.03:890][508]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: Base pass shader: 196 instructions
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.24-19.46.03:946][510]MaterialEditorStats: Shader Count: 12
+[2023.09.24-19.49.37:941][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.09.24-19.49.39:180][829]LogSlate: Window 'Save Content' being destroyed
+[2023.09.24-19.49.39:186][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.24-19.49.39:224][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.09.24-19.49.39:229][829]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Hexagon
+[2023.09.24-19.49.39:229][829]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_HexagonB8C8C7CB44EEB8A44E98359C3DD037AD.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Hexagon.umap'
+[2023.09.24-19.49.39:233][829]LogFileHelpers: Saving map 'L_Hexagon' took 0.023
+[2023.09.24-19.49.39:273][829]LogSavePackage: Moving output files for package: /Game/Art/Textures/Grids/Diffuse_Hex_Tiles_Mat
+[2023.09.24-19.49.39:273][829]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Diffuse_Hex_Tiles_Mat152342BB48697B7CEFC827809F0F93C1.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Textures/Grids/Diffuse_Hex_Tiles_Mat.uasset'
+[2023.09.24-19.49.39:279][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 8.21 sec)
+[2023.09.24-19.49.39:280][829]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.24-19.49.39:280][829]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Hexagon.L_Hexagon
+[2023.09.24-19.49.39:280][829]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Textures/Grids/Diffuse_Hex_Tiles_Mat.Diffuse_Hex_Tiles_Mat
