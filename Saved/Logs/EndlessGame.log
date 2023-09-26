@@ -1858,3 +1858,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.26-20.24.54:405][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
 [2023.09.26-20.24.54:405][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.09.26-20.24.54:405][875]MaterialEditorStats: Shader Count: 16
+[2023.09.26-20.25.53:579][439]LogSlate: Window 'Squares_Diffuse_Texture_Mat' being destroyed
+[2023.09.26-20.25.53:585][439]LogSlate: Window 'Squares_Diffuse_Texture_Mat' being destroyed
+[2023.09.26-20.25.53:596][439]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-20.25.53:596][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-20.25.56:479][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-20.25.56:512][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.09.26-20.25.56:519][752]LogSavePackage: Moving output files for package: /Game/Maps/SubLevels/L_Square
+[2023.09.26-20.25.56:519][752]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_SquareC6F398F244E580081AAB9DB82DD5BE63.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Maps/SubLevels/L_Square.umap'
+[2023.09.26-20.25.56:525][752]LogFileHelpers: Saving map 'L_Square' took 0.026
+[2023.09.26-20.25.56:531][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 413 ms)
+[2023.09.26-20.25.56:532][752]AssetCheck: New page: Asset Save: L_Square
+[2023.09.26-20.25.56:532][752]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.26-20.26.24:162][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.09.26-20.26.25:535][298]LogSlate: Window 'Save Content' being destroyed
+[2023.09.26-20.26.25:542][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-20.26.25:568][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Enviroment/Square_Tiles" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Meshes/Enviroment/Square_Tiles.uasset" SILENT=true
+[2023.09.26-20.26.25:570][298]LogSavePackage: Moving output files for package: /Game/Art/Meshes/Enviroment/Square_Tiles
+[2023.09.26-20.26.25:570][298]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Square_TilesAC7A3D7543AD6DC20C5067928F019FD7.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Meshes/Enviroment/Square_Tiles.uasset'
+[2023.09.26-20.26.25:611][298]LogSavePackage: Moving output files for package: /Game/Art/Textures/Grids/Squares_Diffuse_Texture
+[2023.09.26-20.26.25:611][298]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Squares_Diffuse_Texture5BCFD93A4ADB19E13A40A797317F9FCE.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Textures/Grids/Squares_Diffuse_Texture.uasset'
+[2023.09.26-20.26.25:612][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DebugMenu/Tabs/Tab_Camera" FILE="C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Blueprints/DebugMenu/Tabs/Tab_Camera.uasset" SILENT=true
+[2023.09.26-20.26.25:629][298]LogSavePackage: Moving output files for package: /Game/Blueprints/DebugMenu/Tabs/Tab_Camera
+[2023.09.26-20.26.25:629][298]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Tab_CameraB3818881486C52888DB298A4E221B591.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Blueprints/DebugMenu/Tabs/Tab_Camera.uasset'
+[2023.09.26-20.26.25:636][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 507 ms)
+[2023.09.26-20.26.25:638][298]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.26-20.26.25:638][298]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Art/Meshes/Enviroment/Square_Tiles.Square_Tiles
+[2023.09.26-20.26.25:638][298]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Art/Textures/Grids/Squares_Diffuse_Texture.Squares_Diffuse_Texture
+[2023.09.26-20.26.25:638][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/DebugMenu/Tabs/Tab_Camera.Tab_Camera
