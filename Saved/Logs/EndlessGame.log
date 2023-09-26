@@ -1674,3 +1674,187 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.26-20.02.17:473][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 278 ms)
 [2023.09.26-20.02.17:473][797]AssetCheck: New page: Asset Save: L_Square
 [2023.09.26-20.02.17:473][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SubLevels/L_Square.L_Square
+[2023.09.26-20.07.41:047][618]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2023.09.26-20.07.41:084][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.07.41:085][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.07.41:133][618]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.09.26-20.07.43:052][618]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.09.26-20.07.43:415][618]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.363053s
+[2023.09.26-20.07.44:466][618]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.419253s (1.419253s overbudget)
+[2023.09.26-20.07.51:604][250]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-20.07.51:604][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-20.07.51:639][250]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Total job queries 74, among them cache hits 36 (48.65%)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 31 distinct outputs (81.58%)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: RAM used: 892,15 KiB of 819,20 MiB budget. Usage: 0.11%
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Time job spent in pending queue: average 1.59 s, longest 3.18 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 3.09 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Job life time (pending + execution): average 3.25 s, max 3.49
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Shader code size: average 42,711 KiB, min 31,809 KiB, max 61,465 KiB
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.49 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Average processing rate: 4.58 jobs/sec
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Total thread time: 4,269 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Total thread preprocess time: 0,455 s
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Percentage time preprocessing: 10.65%
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.40% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.98% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.90% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.20% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.79% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.07.51:959][273]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.08.07:121][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DebugMenu/Tabs/Tab_ConsoleCommands.Tab_ConsoleCommands
+[2023.09.26-20.08.07:143][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.08.07:143][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.08.07:174][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.08.07:174][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.08.07:231][  4]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.09.26-20.08.08:839][  4]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.09.26-20.08.08:893][  4]LogSlate: Took 0.053524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.26-20.08.20:018][196]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/DebugMenu/Tabs/Tab_Camera.Tab_Camera
+[2023.09.26-20.08.20:018][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.08.20:018][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.08.20:028][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.08.20:028][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.09.02:041][135]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.26-20.09.02:041][135]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.26-20.09.47:222][523]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.26-20.10.23:385][802]LogEditorTransaction: Undo Distribute Vertically
+[2023.09.26-20.11.23:206][334]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat.Squares_Diffuse_Texture_Mat
+[2023.09.26-20.11.23:210][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-20.11.23:210][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-20.11.23:356][334]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.26-20.11.23:356][334]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.26-20.11.23:356][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.26-20.11.23:356][334]MaterialEditorStats: Shader Count: 0
+[2023.09.26-20.11.23:368][334]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Total job queries 78, among them cache hits 40 (51.28%)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 31 distinct outputs (81.58%)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: RAM used: 892,15 KiB of 819,20 MiB budget. Usage: 0.11%
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Time job spent in pending queue: average 1.59 s, longest 3.18 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 3.09 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Job life time (pending + execution): average 3.25 s, max 3.49
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Shader code size: average 42,711 KiB, min 31,809 KiB, max 61,465 KiB
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.49 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Average processing rate: 4.58 jobs/sec
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Total thread time: 4,269 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Total thread preprocess time: 0,455 s
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Percentage time preprocessing: 10.65%
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.40% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.98% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.90% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.20% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.79% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.11.23:391][335]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: Base pass shader: 194 instructions
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.26-20.11.23:419][336]MaterialEditorStats: Shader Count: 4
+[2023.09.26-20.12.17:635][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.26-20.12.17:641][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SubLevels/L_Square_Auto5
+[2023.09.26-20.12.17:641][ 72]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/L_Square_Auto5EFACC37C480FFB9B5F75E0A6B3AC122D.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Square_Auto5.umap'
+[2023.09.26-20.12.17:642][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Maps/SubLevels/L_Square_Auto5.umap is in the /Temp path, will not scan.
+[2023.09.26-20.12.17:642][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SubLevels/L_Square_Auto5 is in the /Temp path, will not scan.
+[2023.09.26-20.12.17:642][ 72]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SubLevels/L_Square_Auto5 is in the /Temp path, will not scan.
+[2023.09.26-20.12.17:642][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L_Entry' took 0.048
+[2023.09.26-20.12.17:643][ 72]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2023.09.26-20.12.17:643][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DebugMenu/Tabs/Tab_Camera] ([2] browsable assets)...
+[2023.09.26-20.12.17:651][ 72]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/DebugMenu/Tabs/Tab_Camera.Tab_Camera]
+[2023.09.26-20.12.17:651][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DebugMenu/Tabs/Tab_Camera]
+[2023.09.26-20.12.17:686][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DebugMenu/Tabs/Tab_Camera_Auto5
+[2023.09.26-20.12.17:687][ 72]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Tab_Camera_Auto5B3A92022420DA7FC9549628A85459887.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Blueprints/DebugMenu/Tabs/Tab_Camera_Auto5.uasset'
+[2023.09.26-20.12.17:688][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Meshes/Enviroment/Square_Tiles] ([1] browsable assets)...
+[2023.09.26-20.12.17:778][ 72]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Meshes/Enviroment/Square_Tiles.Square_Tiles]
+[2023.09.26-20.12.17:778][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Meshes/Enviroment/Square_Tiles]
+[2023.09.26-20.12.17:780][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Meshes/Enviroment/Square_Tiles_Auto5
+[2023.09.26-20.12.17:780][ 72]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Square_Tiles_Auto5EEC17BE44353FFA8C5EDE0939F264AE1.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Art/Meshes/Enviroment/Square_Tiles_Auto5.uasset'
+[2023.09.26-20.12.17:781][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Textures/Grids/Squares_Diffuse_Texture] ([1] browsable assets)...
+[2023.09.26-20.12.17:781][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Textures/Grids/Squares_Diffuse_Texture]
+[2023.09.26-20.12.17:788][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Auto5
+[2023.09.26-20.12.17:788][ 72]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Squares_Diffuse_Texture_Auto566EBA98946B80FBB4887B78D8B32F8AC.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Auto5.uasset'
+[2023.09.26-20.12.17:789][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat] ([1] browsable assets)...
+[2023.09.26-20.12.17:811][ 72]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat.Squares_Diffuse_Texture_Mat]
+[2023.09.26-20.12.17:811][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat]
+[2023.09.26-20.12.17:813][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat_Auto5
+[2023.09.26-20.12.17:813][ 72]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Squares_Diffuse_Texture_Mat_Auto2EFF89144C3907E836B944AA1D24FC24.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Autosaves/Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat_Auto5.uasset'
+[2023.09.26-20.12.17:814][ 72]LogFileHelpers: Auto-saving content packages took 0.171
+[2023.09.26-20.24.53:973][875]LogMaterialEditor: Saving and Compiling material Squares_Diffuse_Texture_Mat
+[2023.09.26-20.24.54:049][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Total job queries 92, among them cache hits 54 (58.70%)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 31 distinct outputs (81.58%)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: RAM used: 892,15 KiB of 819,20 MiB budget. Usage: 0.11%
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Time job spent in pending queue: average 1.59 s, longest 3.18 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 3.09 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Job life time (pending + execution): average 3.25 s, max 3.49
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Shader code size: average 42,711 KiB, min 31,809 KiB, max 61,465 KiB
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.49 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Average processing rate: 4.58 jobs/sec
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Total thread time: 4,269 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Total thread preprocess time: 0,455 s
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Percentage time preprocessing: 10.65%
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.40% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.98% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.90% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.20% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.79% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2023.09.26-20.24.54:193][875]LogShaderCompilers: Display: ================================================
+[2023.09.26-20.24.54:296][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.26-20.24.54:316][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-20.24.54:390][875]LogSavePackage: Moving output files for package: /Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat
+[2023.09.26-20.24.54:390][875]LogSavePackage: Moving 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Saved/Squares_Diffuse_Texture_Mat6400A340413A3B7687C584857D201D48.tmp' to 'C:/Users/alex_/Desktop/Archivos Unreal Engine/EndlessGameV2/Content/Art/Textures/Grids/Squares_Diffuse_Texture_Mat.uasset'
+[2023.09.26-20.24.54:399][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 361 ms)
+[2023.09.26-20.24.54:401][875]AssetCheck: New page: Asset Save: Squares_Diffuse_Texture_Mat
+[2023.09.26-20.24.54:401][875]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Art/Textures/Grids/Squares_Diffuse_Texture_Mat.Squares_Diffuse_Texture_Mat
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: Base pass shader: 194 instructions
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: MaxSampler: 244 instructions
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.26-20.24.54:405][875]MaterialEditorStats: Shader Count: 16
